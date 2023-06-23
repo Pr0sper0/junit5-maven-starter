@@ -1,0 +1,4 @@
+com\val\junit\service\UserServiceTest$LoginTest.class
+com\val\junit\resolver\UserServiceParameterResolver.class
+com\val\junit\service\UserServiceTest.class
+com\val\junit\TestLauncher.class
